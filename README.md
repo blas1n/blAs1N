@@ -8,4 +8,4 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qazasa123@gmail.com)](mailto:qazasa123@gmail.com)
 
 [![blAs1N's github stats](https://github-readme-stats.vercel.app/api?username=blAs1N&hide_border=true&thema&show_icons=true&theme=radical)](https://github.com/blAs1N)  
-[![blAs1N's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blAs1N&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![blAs1N's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blAs1N&layout=compact)](https://github.com/blAs1N)
